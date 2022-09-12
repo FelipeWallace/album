@@ -30,6 +30,7 @@ p:hover {
 }
 
 .subTituloImportante {
+    text-align: center;
     background-color: blueviolet;
     color: white;
     font-size: x-large;
@@ -73,4 +74,10 @@ img:hover {
 
 html {
     font-size: 100%;
+}
+
+.album {
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
 }
